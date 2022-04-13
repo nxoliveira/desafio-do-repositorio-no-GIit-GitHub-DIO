@@ -1,0 +1,2 @@
+O GitBash é um terminal que otimiza o GitHub;
+Sempre utilizar o site notion.so para fazer anotações;
